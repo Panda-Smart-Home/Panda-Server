@@ -1,0 +1,9 @@
+{
+    "id": "0",
+    "name": "Panda Server",
+    "type": "server",
+    "chip": "Raspberry Pi",
+    "username": "panda",
+    "password": "123456",
+    "phone": "13420106159"
+}
